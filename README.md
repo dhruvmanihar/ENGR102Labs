@@ -1,3 +1,3 @@
 # ENGR102Labs
 
-All lab projects from my ENGR102 course at Texas A&M Univeristy (Fall 2021). 
+Culmination of all my lab projects from ENGR102 course at Texas A&M Univeristy (Fall 2021). 
